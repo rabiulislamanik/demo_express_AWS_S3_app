@@ -24,4 +24,4 @@ A simple demo Express app for uploading /retrieving files with Amazon S3
 
 #### If you want to get the URLs of the files ,then you can add the code in this gist-
  
-  https://gist.github.com/rabiulislamanik/f488c6c500d807b9704f7612e0a7acfd.js
+  https://gist.github.com/rabiulislamanik/f488c6c500d807b9704f7612e0a7acfd#file-getfileurl-js
